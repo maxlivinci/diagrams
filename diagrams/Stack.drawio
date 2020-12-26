@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T13:56:43.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" version="14.1.2" etag="yiy__yjXQoRogHZSou3_" type="github"><diagram id="ct29OsM8WMCjkqo5Dt3r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-26T14:17:12.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="fCIAZQZfcmpv8D5k1wlg" version="14.1.2" type="github">
+  <diagram id="ct29OsM8WMCjkqo5Dt3r" name="第1頁">
+    <mxGraphModel dx="2068" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-1" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="158" width="649" height="705" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-4" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="657" y="158" width="649" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="658" y="221" width="647" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="657" y="483" width="648" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dmitripavlutin.com/static/955adfa7435c76ac16bfaf9d7d992ac1/da8b6/javascript-closure-2.png;" vertex="1" parent="1">
+          <mxGeometry x="215" y="255" width="433" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-11" value="Text Area" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="657" y="863" width="648" height="273" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-12" value="outerVar = &#39;I am outside&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="678" y="240" width="441" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="5kPL3i4nagBrFQLOzMjD-13" target="5kPL3i4nagBrFQLOzMjD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5kPL3i4nagBrFQLOzMjD-13" value="funcion innerFunc()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="706" y="889" width="269" height="82" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
